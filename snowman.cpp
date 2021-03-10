@@ -1,8 +1,9 @@
 #include <iostream>
-#include<string>
-#include"snowman.hpp"
+#include <stdio.h>
+using namespace std;
 namespace ariel{
     string snowman(int x){
         return " ";
     }
+ 
 }
